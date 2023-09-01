@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+![Screen Shot 2023-09-01 at 4 19 29 PM](https://github.com/dilhansiriwardhana/feedback-app/assets/76891526/307a1d27-2e0e-41fe-99be-2a245b3dcf0e)
+
+![Screen Shot 2023-09-01 at 4 19 39 PM](https://github.com/dilhansiriwardhana/feedback-app/assets/76891526/4af8afcd-ed86-4b85-99a5-606c4bf69fcf)
+
+![Screen Shot 2023-09-01 at 4 19 45 PM](https://github.com/dilhansiriwardhana/feedback-app/assets/76891526/a0888e8f-b964-494c-8d6b-36726e6aa8b2)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
